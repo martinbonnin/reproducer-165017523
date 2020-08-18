@@ -1,0 +1,1 @@
+BuildHelper.apply(rootProject)
